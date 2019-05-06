@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {View, Text, TouchableOpacity} from 'react-native';
 
 export default class Home extends Component{
-    
+
     render(){
         return(
             <View style = {{flex : 1, alignItems : 'center', justifyContent : 'center'}}>
@@ -23,7 +23,7 @@ export default class Home extends Component{
                         <Text style = {{fontSize : 20, fontWeight : 'bold', color : 'white'}}>Decrease</Text>
                     </TouchableOpacity>
                 </View>
-                <Text style = {{fontSize : 20, fontWeight : 'bold', marginTop : 30}}>Count : + {this.props.times}</Text>
+                <Text style = {{fontSize : 20, fontWeight : 'bold', marginTop : 30}}>Count : {this.props.times}</Text>
             </View>
         );
     }

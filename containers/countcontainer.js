@@ -1,7 +1,6 @@
 import {increaseAction, decreaseAction} from '../actions';
 import {connect} from 'react-redux';
 import Home from '../components/HomeScreen';
-import countreducer from '../reducers/countreducer';
 
 const mapStateToProps = (state)=>{
     return{
@@ -20,5 +19,5 @@ const mapDispatchToProps = (dispatch)=>{
     }
 }
 
-const countcontainer = connect(mapStateToProps,mapDispatchToProps)(Home);
-export default countcontainer;
+const Countcontainer = connect(mapStateToProps,mapDispatchToProps)(Home);
+export default Countcontainer;
