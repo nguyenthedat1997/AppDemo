@@ -1,7 +1,7 @@
-import countreducer from './countreducer';
+import addfoodreducer from './appreducer';
 import {combineReducers} from 'redux';
 
 const allreducers = combineReducers({
-    countreducer,
+    addfoodreducer,
 });
 export default allreducers;

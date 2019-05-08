@@ -1,6 +1,7 @@
-import {increaseAction, decreaseAction} from '../actions';
+import {increaseAction, decreaseAction, addfoodAction} from '../actions';
 import {connect} from 'react-redux';
 import Home from '../components/HomeScreen';
+import componentFlatList from '../components/componentFlatList';
 
 const mapStateToProps = (state)=>{
     return{
@@ -15,9 +16,12 @@ const mapDispatchToProps = (dispatch)=>{
         },
         onDecrease : (step)=>{
             dispatch(decreaseAction(step));
+        },
+        onAddfood : (name)=>{
+            dispatch(addfoodAction(name));
         }
     }
 }
 
-const Countcontainer = connect(mapStateToProps,mapDispatchToProps)(Home);
+const Countcontainer = connect(mapStateToProps,mapDispatchToProps)(componentFlatList);
 export default Countcontainer;
