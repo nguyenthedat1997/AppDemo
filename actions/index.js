@@ -13,9 +13,11 @@ export const decreaseAction = (step)=>{
         step : step
     }
 }
-export const addfoodAction  = (name)=>{
+export const addfoodAction  = (name,key,arrayfood)=>{
     return{
         type : ADDFOOD,
-        foodnames : name
+        arrayfood : arrayfood,
+        name : name,
+        key : key
     }
 }

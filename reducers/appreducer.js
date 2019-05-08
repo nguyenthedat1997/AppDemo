@@ -9,13 +9,19 @@ const countreducer = (times=0, action)=>{
             return times -= action.step;
         default : return times
     }
-}*/
-export const addfoodreducer = (name = '',action)=>{
+}
+*/
+const addfoodreducer = (arrayfood = [],key = 0, action)=>{
     switch (action.type) {
-        case ADDFOOD:
-                name = action.foodnames;
-        default:
-            return name;
+        case ADDFOOD: {
+            let array = action.arrayfood;
+                array.push({
+                    foodname : action.name,
+                    key : action.key+key+''
+                });
+                return arrayfood=array;
+            }      
+        default: return arrayfood;
     }
 }
 export default addfoodreducer;

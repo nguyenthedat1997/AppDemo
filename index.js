@@ -5,7 +5,6 @@
 import {AppRegistry} from 'react-native';
 import {name as appName} from './app.json';
 import React,{Component} from 'react';
-import Home from './components/HomeScreen';
 
 import {createStore} from 'redux';
 import {Provider} from 'react-redux';
