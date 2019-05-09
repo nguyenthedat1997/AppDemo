@@ -6,7 +6,7 @@ export default class Home extends Component{
     render(){
         return(
             <View style = {{flex : 1, alignItems : 'center', justifyContent : 'center'}}>
-                <Text style = {{fontSize : 30, fontWeight : 'bold'}}>This is screen count</Text>
+                <Text style = {{fontSize : 30, fontWeight : 'bold'}}>This is screen counter</Text>
                 <View style = {{flexDirection : 'row', marginTop : 30}}>
                     <TouchableOpacity style = {{height : 40, width : 120, borderRadius : 10 ,backgroundColor : 'green', justifyContent : 'center', alignItems : 'center'}}
                         onPress = {()=>{
