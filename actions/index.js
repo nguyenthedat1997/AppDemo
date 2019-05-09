@@ -13,3 +13,11 @@ export const decreaseAction = (step)=>{
         step : step
     }
 }
+let taskid = 0;
+export const addtaskAction = (taskname)=>{
+    return{
+        type : ADDFOOD,
+        taskid : taskid,
+        taskname : taskname
+    }
+}

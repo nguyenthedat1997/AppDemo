@@ -28,4 +28,39 @@ export default class Home extends Component{
         );
     }
 }
+/*
+import React, {Component} from 'react';
+import {View, Text, TextInput, TouchableOpacity, FlatList} from 'react-native';
+
+export default class TaskManager extends Component {
+    constructor(props){
+        super(props);
+        this.state = {
+            tasknames : ''
+        }
+    }
+    render(){
+        return(
+            <View style = {{flex : 1, flexDirection : "column"}}>
+                <View style = {{flex : 20, backgroundColor : 'green'}}>
+                    <View style = {{flex : 1, flexDirection : 'row'}}>
+                        <TextInput style = {{height : 40, width : 200, borderBottomWidth : 1, borderBottomColor : 'gray'}}
+                            onChangeText = {(text)=>{this.setState({tasknames : text})}}
+                            value = {this.state.tasknames}
+                            placeholder = 'Please enter your taskname'
+                            placeholderTextColor = 'gray'
+                        ></TextInput>
+                        <TouchableOpacity style = {{height : 40, width : 70, backgroundColor : 'red', justifyContent : 'center', alignItems : 'center'}}>
+                            <Text>Add</Text>
+                        </TouchableOpacity>
+                    </View>
+                </View>
+                <View style = {{flex : 80, backgroundColor : 'red'}}>
+
+                </View>
+            </View>
+        );
+    }
+}
+*/
 
