@@ -1,4 +1,4 @@
-import {INCREASE, DECREASE} from '../actions/actiontypes';
+import {INCREASE, DECREASE, ADDTASK} from '../actions/actiontypes';
 
 
 const countreducer = (times=0, action)=>{
@@ -10,5 +10,17 @@ const countreducer = (times=0, action)=>{
         default : return times
     }
 }
-
-export default countreducer;
+const addtaskreducer = (task = [], action)=>{
+    switch (action.type) {
+        case ADDTASK:
+            return [
+                ...task,
+                {
+                    taskname : action.taskname,
+                    key : action.taskid+''
+                }
+            ]
+        default: return task;
+    }
+}
+export default addtaskreducer;

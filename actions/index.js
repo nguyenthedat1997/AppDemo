@@ -1,5 +1,5 @@
 
-import {INCREASE, DECREASE, ADDFOOD} from './actiontypes';
+import {INCREASE, DECREASE, ADDTASK} from './actiontypes';
 
 export const increaseAction = (step)=>{
     return{
@@ -13,11 +13,11 @@ export const decreaseAction = (step)=>{
         step : step
     }
 }
-let taskid = 0;
-export const addtaskAction = (taskname)=>{
+let id = 0;
+export const addtaskAction = (name)=>{
     return{
-        type : ADDFOOD,
-        taskid : taskid,
-        taskname : taskname
+        type : ADDTASK,
+        taskname : name,
+        taskid : id++
     }
 }

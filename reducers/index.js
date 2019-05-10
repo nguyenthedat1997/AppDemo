@@ -1,7 +1,8 @@
 import countreducer from './appreducer';
+import addtaskreducer from './appreducer';
 import {combineReducers} from 'redux';
 
 const allreducers = combineReducers({
-    countreducer,
+    addtaskreducer,
 });
 export default allreducers;
