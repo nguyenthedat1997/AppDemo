@@ -10,17 +10,19 @@ const countreducer = (times=0, action)=>{
         default : return times
     }
 }
+
 const addtaskreducer = (task = [], action)=>{
     switch (action.type) {
         case ADDTASK:
             return [
-                ...task,
-                {
-                    taskname : action.taskname,
-                    key : action.taskid+''
-                }
+              ...task,
+              {
+                id: action.taskid,
+                text: action.taskname,
+                completed: false
+              }
             ]
-        default: return task;
+        default : return task;
     }
 }
 export default addtaskreducer;

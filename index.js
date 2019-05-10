@@ -10,12 +10,12 @@ import {createStore} from 'redux';
 import {Provider} from 'react-redux';
 
 import allreducers from './reducers';
-import Countcontainer from './containers/Countcontainer';
+import MainTask from './components/MainTask';
 
 let store = createStore(allreducers);
 const App = ()=>(
         <Provider store = {store}>
-            <Countcontainer/>
+            <MainTask/>
         </Provider>
 );
     
