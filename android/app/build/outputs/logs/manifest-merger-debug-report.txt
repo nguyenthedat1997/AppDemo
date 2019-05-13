@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/mojave/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/95cab6605673dfb64f334bd4c38b0d39/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9cc75b9bd1104440b379a3ed88c0d558/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/831562af9c27ffe7cd191d5f959b1662/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0b20905ed51e95d0ff974886473d66d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8eb48c6758990bcdfe7151a488488dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/49512b8b45c9316bddfe91679bfd4988/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1eaff115067fbdf78775b743e2ae98e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0ca4475481faecbdcf4d672f9760c42d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a091c79536f8f1a51022380514c360a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6209ea274866a3cd3406cfa407d337ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4be76aa74b09a89f53f1d7b72aa965a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/663fc3f5a99bccd8a9d2b60d2ea1d63b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/78141d4aadb7ca9e17b2b8cd96c57c38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/35743ff8e1d6c8836df5a6d4f36e2f5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/78de56d3773a3b2f905ab2359e17c014/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/99f7492e5199ef9fa738da53147790e9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f5dcb0088585575049eb843b2feb314/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8f314a82ea8efe33fe043cd0212b1a49/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12103b5384dca811782fed293bf749b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d63825b521aa2e214639dae5dd07adb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c2c688ed6e3299eefe2fe94de0f6659d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/072ac8da7f7d65d48958096a2aa535af/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f2a90bfc3c2a9b6d838112d759f5c2a0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c56c5d65002e0475d88da591df5d6fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a3e7c35a2a01a34fc433c541318e5ffd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c97c010c7b4b328dcad368f86b8ee36a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1fa6695b0d11b7f8d83ec6048de29ebd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b260ebb02e99aa37a0e6b50b93a7d4c3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/99f305804f88bcb25a3b013da83f97b1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2a18f499107f7d44dd00dacf7aadeac6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9d7e946d94f495504e810d00db8eddc8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c2af7412f889b2dd616e798f069772e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c80cd41a659984a757a2522dc4746e85/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d51f543b80889e385f29a1ca494d87f1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/mojave/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/95cab6605673dfb64f334bd4c38b0d39/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/mojave/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/95cab6605673dfb64f334bd4c38b0d39/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/99f7492e5199ef9fa738da53147790e9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/99f7492e5199ef9fa738da53147790e9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f5dcb0088585575049eb843b2feb314/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f5dcb0088585575049eb843b2feb314/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c80cd41a659984a757a2522dc4746e85/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c80cd41a659984a757a2522dc4746e85/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/99f7492e5199ef9fa738da53147790e9/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.apptest.MainActivity
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/mojave/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/95cab6605673dfb64f334bd4c38b0d39/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/mojave/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/95cab6605673dfb64f334bd4c38b0d39/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9cc75b9bd1104440b379a3ed88c0d558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9cc75b9bd1104440b379a3ed88c0d558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/831562af9c27ffe7cd191d5f959b1662/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/831562af9c27ffe7cd191d5f959b1662/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0b20905ed51e95d0ff974886473d66d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0b20905ed51e95d0ff974886473d66d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8eb48c6758990bcdfe7151a488488dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8eb48c6758990bcdfe7151a488488dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/49512b8b45c9316bddfe91679bfd4988/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/49512b8b45c9316bddfe91679bfd4988/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1eaff115067fbdf78775b743e2ae98e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1eaff115067fbdf78775b743e2ae98e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0ca4475481faecbdcf4d672f9760c42d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0ca4475481faecbdcf4d672f9760c42d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a091c79536f8f1a51022380514c360a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a091c79536f8f1a51022380514c360a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6209ea274866a3cd3406cfa407d337ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6209ea274866a3cd3406cfa407d337ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4be76aa74b09a89f53f1d7b72aa965a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4be76aa74b09a89f53f1d7b72aa965a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/663fc3f5a99bccd8a9d2b60d2ea1d63b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/663fc3f5a99bccd8a9d2b60d2ea1d63b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/78141d4aadb7ca9e17b2b8cd96c57c38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/78141d4aadb7ca9e17b2b8cd96c57c38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/35743ff8e1d6c8836df5a6d4f36e2f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/35743ff8e1d6c8836df5a6d4f36e2f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/78de56d3773a3b2f905ab2359e17c014/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/78de56d3773a3b2f905ab2359e17c014/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/99f7492e5199ef9fa738da53147790e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/99f7492e5199ef9fa738da53147790e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f5dcb0088585575049eb843b2feb314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3f5dcb0088585575049eb843b2feb314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8f314a82ea8efe33fe043cd0212b1a49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8f314a82ea8efe33fe043cd0212b1a49/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12103b5384dca811782fed293bf749b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12103b5384dca811782fed293bf749b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d63825b521aa2e214639dae5dd07adb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d63825b521aa2e214639dae5dd07adb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c2c688ed6e3299eefe2fe94de0f6659d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c2c688ed6e3299eefe2fe94de0f6659d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/072ac8da7f7d65d48958096a2aa535af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/072ac8da7f7d65d48958096a2aa535af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f2a90bfc3c2a9b6d838112d759f5c2a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f2a90bfc3c2a9b6d838112d759f5c2a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c56c5d65002e0475d88da591df5d6fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c56c5d65002e0475d88da591df5d6fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a3e7c35a2a01a34fc433c541318e5ffd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a3e7c35a2a01a34fc433c541318e5ffd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c97c010c7b4b328dcad368f86b8ee36a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mojave/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c97c010c7b4b328dcad368f86b8ee36a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1fa6695b0d11b7f8d83ec6048de29ebd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1fa6695b0d11b7f8d83ec6048de29ebd/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b260ebb02e99aa37a0e6b50b93a7d4c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b260ebb02e99aa37a0e6b50b93a7d4c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/99f305804f88bcb25a3b013da83f97b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/99f305804f88bcb25a3b013da83f97b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2a18f499107f7d44dd00dacf7aadeac6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/2a18f499107f7d44dd00dacf7aadeac6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9d7e946d94f495504e810d00db8eddc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9d7e946d94f495504e810d00db8eddc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c2af7412f889b2dd616e798f069772e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c2af7412f889b2dd616e798f069772e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c80cd41a659984a757a2522dc4746e85/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c80cd41a659984a757a2522dc4746e85/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d51f543b80889e385f29a1ca494d87f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/mojave/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d51f543b80889e385f29a1ca494d87f1/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/mojave/Documents/GitHub/AppDemo/android/app/src/debug/AndroidManifest.xml:5:22-75

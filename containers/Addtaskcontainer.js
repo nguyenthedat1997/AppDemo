@@ -4,7 +4,7 @@ import TaskManager from '../components/TaskManager';
 
 const mapStateToProps = (state)=>{
     return{
-        //task : state.addtaskreducer ? state.addtaskreducer : []
+        task : state.addtaskreducer ? state.addtaskreducer : []
     }
 }
 

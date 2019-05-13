@@ -6,7 +6,7 @@ export default class TaskList extends Component{
         return(
                 <FlatList
                     data = {this.props.task}
-                    renderItem = {(item,index)=>{
+                    renderItem = {({item,index})=>{
                         return(
                             <View style = {styles.viewcontainer}>
                                 <Text>{item.taskname}</Text>
